@@ -26,6 +26,9 @@ y espero que esta guía, que he procurado que sea clara y sin errores, le sirva 
 - Cambiar el gestor de sesiones de LightDM a SDDM.  
 - Desactivar los servicios y autoarranques de Cinnamon para evitar interferencias.  
 - Mantener Cinnamon instalado y totalmente reversible si es necesario.
+- 
+# ⚠️ Nota importante:
+Antes de realizar ningún cambio en entornos de escritorio, es recomendable crear una instantánea con Timeshift o realizar una copia de seguridad de tus datos y configuraciones. Así podrás restaurar tu sistema en caso de problemas.
   
 ## 🖥️ Paso a paso
 
