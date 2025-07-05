@@ -41,6 +41,7 @@ Instala el entorno KDE Plasma mínimo, estándar o completo.
 ### 2️⃣ Configurar SDDM como gestor de sesiones
 ```
 sudo dpkg-reconfigure sddm
+
 Selecciona sddm como gestor de inicio de sesión.
 ```
 ### 3️⃣ Habilitar y arrancar SDDM
