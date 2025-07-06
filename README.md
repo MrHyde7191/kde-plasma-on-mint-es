@@ -108,7 +108,6 @@ sudo systemctl disable sddm
 
 mv ~/.config/autostart/disabled/* ~/.config/autostart/  # Mover los autoarranques de Cinnamon a la carpeta original.
 
-
 ```
 ## 📎 Notas
 
