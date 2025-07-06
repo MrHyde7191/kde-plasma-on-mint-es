@@ -100,13 +100,15 @@ journalctl --user -b | tail -30
 ## 🔄 Cómo volver a Cinnamon
 
 ```bash
+Si quieres restaurar Cinnamon como tu entorno de escritorio por defecto, puedes revertir los cambios fácilmente:
+
 sudo dpkg-reconfigure lightdm   # Selecciona LightDM como gestor de pantalla
 sudo systemctl enable lightdm
 sudo systemctl disable sddm
 
 mv ~/.config/autostart/disabled/* ~/.config/autostart/  # Mover los autoarranques de Cinnamon a la carpeta original.
 
-Si quieres restaurar Cinnamon como tu entorno de escritorio por defecto, puedes revertir los cambios fácilmente:
+
 ```
 ## 📎 Notas
 
