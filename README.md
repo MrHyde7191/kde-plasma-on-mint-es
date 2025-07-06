@@ -1,5 +1,5 @@
 # Guía para instalar KDE Plasma en Linux Mint Cinnamon sin eliminar Cinnamon
-[Versión en inglés](https://github.com/MrHyde7191/kde-plasma-on-mint-en "English version")
+[Lea esta guía en inglés](https://github.com/MrHyde7191/kde-plasma-on-mint-en "English version")
 
 ![Linux Mint Cinnamon   KDE Plasma](https://github.com/user-attachments/assets/12f3108c-bd79-47b7-b4f1-c7f550d65cc1)
 ![Prueba de la Guia](https://github.com/user-attachments/assets/99d96778-1d7b-483d-9f07-20d92f95e93f)
